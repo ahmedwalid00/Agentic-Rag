@@ -1,0 +1,22 @@
+# --- Web Framework & Server ---
+fastapi              
+uvicorn[standard]  
+
+# --- LangChain Core & Integrations ---
+langchain             
+langchain-community   
+langchain-openai     
+openai    
+pymupdf
+
+# --- Vector Store & Document Loading ---
+chromadb          
+pypdf                 
+
+# --- Firebase Integration ---
+firebase-admin      
+google-cloud-firestore[async]
+
+# --- Utilities ---
+python-dotenv        
+pydantic
